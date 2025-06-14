@@ -2,7 +2,7 @@
     "conditions":[
       {
         "name": "Thyroid",
-        "imagesrc":"https://www.shutterstock.com/shutterstock/photos/2078938396/display_1500/stock-vector-endocrinologists-diagnose-and-treat-human-thyroid-gland-doctors-make-blood-test-on-hormones-2078938396.jpg",
+        "imagesrc":"thyroid.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabeties.jpg",
+        "imagesrc":"diabetes.jpg",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
+        "imagesrc":"presion.jpg",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
